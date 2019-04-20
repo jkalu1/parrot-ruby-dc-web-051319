@@ -3,4 +3,4 @@
 def #parrot(a)
   put Squawk
 end
-  "What noise does a parrot make (put #parrot)"
+ 
